@@ -1,1 +1,1 @@
-- [An Intelligent Wireless Ultrasound Platform for Nondestructive Testing (NDT) and Structural Monitoring (SM)](https://www.ndt.net/search/docs.php3?id=33634) — Gaofeng Sha, Clover Park Technical College, Lakewood, Washington, USA [web:7]
+- [An Intelligent Wireless Ultrasound Platform for Nondestructive Testing (NDT) and Structural Monitoring (SM)](https://www.ndt.net/search/docs.php3?id=33634) — Gaofeng Sha, Structural IoT LLC (www.structuraliot.com), USA
